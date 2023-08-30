@@ -13,3 +13,10 @@ Evaluation: Our model's predictions are evaluated using mean absolute error (MAE
 
 Dataset
 The dataset named "team.csv" includes information about Olympic medal counts, country-wise details, athlete attributes, and medal counts. The data is split into training and test sets based on the year of the event.
+Results
+Our model's performance is measured using the following metrics:
+
+Mean Absolute Error (MAE): The average difference between predicted and actual medal counts.
+Error Ratio: The percentage of predicted error compared to actual values.
+These metrics offer valuable insights into the accuracy of our predictions.
+It predicts the no of  medal won by a country by seeing the no of athlets in the country .
