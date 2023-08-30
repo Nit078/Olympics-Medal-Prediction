@@ -19,4 +19,4 @@ Our model's performance is measured using the following metrics:
 Mean Absolute Error (MAE): The average difference between predicted and actual medal counts.
 Error Ratio: The percentage of predicted error compared to actual values.
 These metrics offer valuable insights into the accuracy of our predictions.
-It predicts the no of  medal won by a country by seeing the no of athlets in the country .
+It predicts the no of  medal won by a country by seeing the no of athlets in the country.
