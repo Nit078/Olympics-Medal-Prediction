@@ -1,5 +1,4 @@
 Olympics Medal Prediction Project
-Project Logo <!-- If you have a logo, include it in the repository and reference it here -->
 
 Predicting Olympic Medal Counts using Linear Regression
 
